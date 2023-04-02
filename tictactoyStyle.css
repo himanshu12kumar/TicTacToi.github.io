@@ -10,13 +10,14 @@
         padding: 0;
     }
     .topmost{
-        width: 90%;
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        box-shadow: 0 0 41px -4px blue inset;
+           width: 90%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 41px -4px blue inset;
+    border-radius: 10px;
     }
     #tic{
         margin: 0;
