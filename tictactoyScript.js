@@ -73,3 +73,8 @@ cells.forEach(function(cell){
     });
     
 });
+
+
+function resetButton(){
+    window.location = "index.html";
+}
