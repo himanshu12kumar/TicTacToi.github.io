@@ -70,6 +70,7 @@
         background-color: #4444ff;
         border-radius: 4px;
         color: white;
+        cursor: pointer;
     }
 #dance_tady{
     transition: 1s;
@@ -132,6 +133,9 @@
         margin-left: 20px;
     }
     #result_zero {
+        margin-left: 20px;
+    }
+    #reset{
         margin-left: 20px;
     }
 }
