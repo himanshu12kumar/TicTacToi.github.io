@@ -125,7 +125,7 @@
         box-shadow: 0 0 15px 0px blue inset;
     }
     .board {
-        width: 50%;
+        width: 75%;
     }
     .details {
         flex-direction: row;
